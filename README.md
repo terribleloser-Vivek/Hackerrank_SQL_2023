@@ -16,7 +16,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 
 ### Basic Select Challenges
 
-| Number | Challenges | Solutions |
+| Number | Challenges | Filenames |
 |:------:|------------|:---------:|
 | 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](BASIC SELECT/japanese-cities-attributes.sql)
 | 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [SQL](BASIC SELECT/revising-the-select-query-2.sql)
